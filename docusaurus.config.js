@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'Contact Us',
-                to: '/blog',
+                to: '/docs/intro',
               },
             ],
           },
